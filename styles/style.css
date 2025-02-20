@@ -328,7 +328,7 @@ ol {
   line-height: normal;
 }
 
-.search-form__label-text:hover {
+.search-form__label:hover {
   text-decoration-line: underline;
   text-decoration-style: solid;
   text-decoration-thickness: auto;
