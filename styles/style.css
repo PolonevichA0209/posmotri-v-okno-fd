@@ -186,6 +186,8 @@ ol {
 }
 
 .search-form__checkbox-list {
+  display: flex;
+  column-gap: 15px;
   width: 212px;
 }
 
@@ -293,11 +295,6 @@ ol {
 
 .more-button {
   width: 100%;
-}
-
-.search-form__checkbox-list {
-  display: flex;
-  column-gap: 15px;
 }
 
 .search-form__label {
