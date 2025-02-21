@@ -19,9 +19,9 @@ html {
 }
 
 .page {
-  /* display: flex;
+  display: flex;
   justify-content: center;
-  align-items:center; */
+  align-items:center;
   margin: auto;
   padding: 30px;
   color: #fff;
