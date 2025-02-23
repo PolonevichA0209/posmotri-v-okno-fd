@@ -117,7 +117,7 @@ ol {
 .result__video-container {
   position: relative;
   width: 100%;
-  max-height: 386px;
+  height: 386px;
   margin-bottom: 16px;
 }
 
@@ -219,7 +219,7 @@ ol {
   width: 399px;
   height: 296px;
   padding: 3px;
-  overflow-y: scroll;/* Оставил padding так как если убрать то у more-button некорректно отображается outline*/
+  overflow-y: scroll;
 }
 
 .content__list {
